@@ -1,16 +1,35 @@
-## Hi there 👋
+# Frontend Web Developer 👩‍💻
 
-<!--
-**Fronted-studio/Fronted-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create modern, responsive and user-friendly websites using frontend technologies.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git & GitHub
+
+## 🚀 My Projects
+
+- University Website
+- E-Commerce Website
+- Flower Shop
+- Restaurant Website
+- Clothing Website
+- Gym Website
+- Beauty Salon Website
+- Mobile Shop Website
+- Cafe Website
+- Hotel Website
+
+## 🌐 Portfolio
+
+Explore my portfolio to see my projects and live demos.
+
+## 🎯 Currently Learning
+
+- Advanced JavaScript
+- DOM Manipulation
+- Modern Frontend Development
+- Interactive Web Design
